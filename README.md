@@ -1,2 +1,3 @@
-# linear-data-structures-cpp
-Linear data structures implemented from scratch in C++ as part of my learning journey.
+# Stack (Array)
+
+Implementation of Stack using Array in C++.
